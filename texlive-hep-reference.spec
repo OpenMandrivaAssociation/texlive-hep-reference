@@ -1,6 +1,6 @@
 Name:		texlive-hep-reference
-Version:	64853
-Release:	2
+Version:	67632
+Release:	1
 Summary:	Adjustments for publications in High Energy Physics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-reference
