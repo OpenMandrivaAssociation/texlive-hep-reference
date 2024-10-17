@@ -3,7 +3,7 @@ Version:	67632
 Release:	1
 Summary:	Adjustments for publications in High Energy Physics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-reference
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hep-reference
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hep-reference.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hep-reference.doc.r%{version}.tar.xz
